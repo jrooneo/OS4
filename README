@@ -1,0 +1,4 @@
+OSS is designed to schedule a number of process stated by a command line arg. If no arg is given a default of 10 processes will be created.
+
+Bugs:
+Immediate seg fault. 
